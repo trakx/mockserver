@@ -9,6 +9,7 @@
     "peatio-mockserver": "./src/index.js"
   },
   "dependencies": {
+    "cross-spawn": "^7.0.0",
     "mockserver": "^2.2.0",
     "ws": "^6.1.2"
   }

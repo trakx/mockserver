@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-const { spawn } = require('child_process');
+const spawn = require('cross-spawn');
 const SlangerMock = require('./slanger');
 const RangerMock = require('./ranger');
 const colors = require('colors');
